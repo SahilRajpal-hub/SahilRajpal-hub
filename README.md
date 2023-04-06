@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring advanced linux and networking.
 - 👯 I’m looking to collaborate with developers for open source or freelance.
-- 🥅 2022 Goals: Contribute more to Open Source projects, advanced software architecture, advanced linux and networking.
+- 🥅 2023 Goals: Contribute more to Open Source projects, advanced software architecture, advanced linux and networking.
 - ⚡ Fun fact: I am cheating to javascript, I love her sister typescript more.
 
 ### Connect with me:
